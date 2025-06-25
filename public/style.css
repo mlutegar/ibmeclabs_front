@@ -14,7 +14,7 @@
 */
 
   --primaria: hsla(0, 1%, 20%, 1);
-  --background: hsla(81, 21%, 74%, 1);
+  --background: #002555;
   --secundaria: hsla(135, 7%, 64%, 1);
   --destaque: hsla(8, 34%, 54%, 1);
   --detalhe:hsla(241, 96%, 72%, 1);
@@ -27,13 +27,13 @@
 
 body {
   margin: 0;
-  font-family: 'Lora', serif;
+  font-family: 'Krub', sans-serif;
   background-color: var(--background);
   color:var(--primaria);
 }
 
 a {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Krub', sans-serif;
 }
 
 div.container {

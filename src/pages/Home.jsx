@@ -4,7 +4,7 @@ import LoginPage from "../components/LoginPage/LoginPage";
 const Home = () => {
   return (
     <Base>
-        <LoginPage/>
+
     </Base>
   )
 }
